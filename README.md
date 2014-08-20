@@ -3,7 +3,7 @@ openvswitch-collectd-plugin
 
 OpenVSwitch plugin for Collectd
 
-Simplistic OpenVSwitch plugin for Collectd.
+Simplistic OpenVSwitch plugin made in Python for Collectd.
 
 Collects the hit, miss and lost stats from the OpenVSwitch DataPath.
 
