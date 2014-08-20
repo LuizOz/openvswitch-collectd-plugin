@@ -1,1 +1,2 @@
-openvswitch      hit:DERIVE:0:U, missed:DERIVE:0:U, lost:DERIVE:0:U
+openvswitch         hit:DERIVE:0:U, missed:DERIVE:0:U, lost:DERIVE:0:U
+openvswitch_ratio   hit_ratio:GAUGE:0:U, missed_ratio:GAUGE:0:U, lost_ratio:GAUGE:0:U
